@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Кристина Салькова
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Кристина
+last_name: Салькова
 
 # Status emoji
 status:
@@ -18,17 +18,17 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: RUDN university
+    url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: студентка, больше нечего рассказать 
 
 # Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+итересы:
+  - программировние
+  - предпринимательство 
+  - искусство
 
 # Education to show in About widget
 education:
@@ -48,30 +48,27 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
+
+  - icon: vk
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    link: https://vk.com/kristinkakiskiskis
+    label: Do not follow me on vk
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://www.rudn.ru/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
+    link: https://github.com/krisalk
+  - icon: instagram
+    label: Follow me on vk
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://instagram.com/kris14.07.04?igshid=YmMyMTA2M2Y=
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
